@@ -7,5 +7,5 @@
 * Для наработки навыком работы с Github
 * Для сдачи лабораторных работ
 
-![Картинка](https://images.app.goo.gl/9LLTmXKd4LwsPoFm6)
+![Картинка](C:\Users\Ульяна\Downloads\256-20-10.png)
 
